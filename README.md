@@ -3,9 +3,14 @@
 
 
 ## 🚀 About Me
-I'm a coder and beginner developer.
+● I find myself Coding often
 
-Futher more, I am into 3D art and visual design. I specialize in creating immersive environments and visuals.
+● Beginner Developer?
+
+● Currently focused in WebD
+
+● Love creating 3D art and visuals
+
 
 
 
