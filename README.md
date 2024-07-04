@@ -21,7 +21,7 @@ Passionate about 3D artistry and visual design. I specialize in creating immersi
 ![](https://img.shields.io/badge/JavaScript-1d1f21?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
 ![](https://img.shields.io/badge/React-1d1f21?style=flat&logo=react&logoColor=white&labelColor=61DAFB)
 ![](https://img.shields.io/badge/HTML5-1d1f21?style=flat&logo=html5&logoColor=white&labelColor=E34F26)
-![](https://img.shields.io/badge/CSS3-1d1f21?style=flat&logo=css3&logoColor=white&labelColor=1572B6)
+![](https://img.shields.io/badge/CSS-1d1f21?style=flat&logo=css3&logoColor=white&labelColor=1572B6)
 ![](https://img.shields.io/badge/Bootstrap-1d1f21?style=flat&logo=bootstrap&logoColor=white&labelColor=7952B3)
 
 ### 3D CGi and Visual Designing 🎨
