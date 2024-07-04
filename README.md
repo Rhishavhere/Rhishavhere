@@ -3,11 +3,9 @@
 
 
 ## 🚀 About Me
-I'm an enthusiastic coder and beginner developer exploring diverse technologies to solve real-world problems I'm currently focused on building web applications.
+I'm a coder and beginner developer.
 
-Futher more, 
-
-Passionate about 3D artistry and visual design. I specialize in creating immersive environments and stunning visual experiences. I make polished designs and compelling visual narratives, bringing ideas to life with precision and creativity.
+Futher more, I am into 3D art and visual design. I specialize in creating immersive environments and visuals.
 
 
 
