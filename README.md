@@ -72,12 +72,3 @@ Passionate about 3D artistry and visual design. I specialize in creating immersi
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhishh__/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rhishh.me@gmail.com)
 
-
-## 📊 This week I spent my time on:
-<!--START_SECTION:waka-->
-```text
-JavaScript   5 hrs 2 mins   ███████████▓░░░░░░░░░░░░░   46.61 % 
-React        2 hrs 42 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.07 % 
-Python       1 hr 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-C++          38 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Java         24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
