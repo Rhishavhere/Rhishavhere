@@ -72,3 +72,4 @@ Passionate about 3D artistry and visual design. I specialize in creating immersi
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhishh__/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rhishh.me@gmail.com)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rhishavhere&theme=dark&card_width=500&card_height=100)](https://git.io/streak-stats)
