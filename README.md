@@ -3,9 +3,7 @@
 
 
 ## 🚀 About Me
-● I find myself Coding often
-
-● Beginner Developer?
+● I find myself coding often 
 
 ● Currently focused in WebD
 
