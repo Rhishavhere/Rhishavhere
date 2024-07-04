@@ -61,10 +61,9 @@ Passionate about 3D artistry and visual design. I specialize in creating immersi
   <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=Rhishavhere&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues,contribs&show=stars,commits,prs" />
 </a>
 
+-------
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rhishavhere&theme=nord&column=3&margin-w=15&margin-h=15&title=Commit,Repository,Experience)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rhishavhere&theme=dark&card_width=500&card_height=100)](https://git.io/streak-stats)
 
 ## 📫 How to reach me:
 [![X-Twitter](https://img.shields.io/badge/-X|Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rhishavhere)
@@ -72,4 +71,5 @@ Passionate about 3D artistry and visual design. I specialize in creating immersi
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhishh__/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rhishh.me@gmail.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rhishavhere&theme=dark&card_width=500&card_height=100)](https://git.io/streak-stats)
+
+Thanks for visiting ! 🙌
