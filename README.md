@@ -1,7 +1,6 @@
 # Hello, I'm Rhishav 👋
 
 
-
 ## 🚀 About Me
 ● I find myself coding often 
 
