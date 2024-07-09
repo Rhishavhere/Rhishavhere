@@ -10,7 +10,6 @@
 
 
 
-
 ## 🛠️ Skills and Technologies
 
 ### Code 💻
