@@ -9,7 +9,6 @@
 ● Love creating 3D art and visuals
 
 
-
 ## 🛠️ Skills and Technologies
 
 ### Code 💻
