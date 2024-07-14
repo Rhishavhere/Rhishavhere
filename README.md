@@ -29,12 +29,10 @@
 ![](https://img.shields.io/badge/Blender-1d1f21?style=flat&logo=blender&logoColor=white&labelColor=F5792A)
 ![](https://img.shields.io/badge/Unreal%20Engine-1d1f21?style=flat&logo=unreal-engine&logoColor=white&labelColor=0E1128)
 ![](https://img.shields.io/badge/DaVinci%20Resolve-1d1f21?style=flat&logo=davinci-resolve&logoColor=white&labelColor=233A51)
-![](https://img.shields.io/badge/Figma-1d1f21?style=flat&logo=figma&logoColor=white&labelColor=F24E1E)
-![](https://img.shields.io/badge/Sketch-1d1f21?style=flat&logo=sketch&logoColor=white&labelColor=F7B500)
-![](https://img.shields.io/badge/Cinema%204D-1d1f21?style=flat&logo=cinema-4d&logoColor=white&labelColor=011A6A)
+
 
 ### Tools
-![](https://img.shields.io/badge/MS%20Office-1d1f21?style=flat&logo=microsoft-office&logoColor=white&labelColor=D83B01)
+![](https://img.shields.io/badge/Figma-1d1f21?style=flat&logo=figma&logoColor=white&labelColor=F24E1E)
 ![](https://img.shields.io/badge/Notion-1d1f21?style=flat&logo=notion&logoColor=white&labelColor=000000)
 ![](https://img.shields.io/badge/ChatGPT-1d1f21?style=flat&logo=openai&logoColor=white&labelColor=412991)
 ![](https://img.shields.io/badge/Gemini-1d1f21?style=flat&logo=google&logoColor=white&labelColor=0A66C2)
