@@ -17,10 +17,11 @@
 ![](https://img.shields.io/badge/Java-1d1f21?style=flat&logo=openjdk&logoColor=white&labelColor=007396)
 ![](https://img.shields.io/badge/Python-1d1f21?style=flat&logo=python&logoColor=white&labelColor=3776AB)
 ![](https://img.shields.io/badge/JavaScript-1d1f21?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
-![](https://img.shields.io/badge/React-1d1f21?style=flat&logo=react&logoColor=white&labelColor=61DAFB)
+![](https://img.shields.io/badge/React-1d1f21?style=flat&logo=react&logoColor=white&labelColor=purple)
+![](https://img.shields.io/badge/Next-1d1f21?style=flat&logo=vercel&logoColor=white&labelColor=black)
 ![](https://img.shields.io/badge/HTML5-1d1f21?style=flat&logo=html5&logoColor=white&labelColor=E34F26)
 ![](https://img.shields.io/badge/CSS-1d1f21?style=flat&logo=css3&logoColor=white&labelColor=1572B6)
-![](https://img.shields.io/badge/Bootstrap-1d1f21?style=flat&logo=bootstrap&logoColor=white&labelColor=7952B3)
+![](https://img.shields.io/badge/Tailwind-1d1f21?style=flat&logo=tailwindcss&logoColor=white&labelColor=blue)
 
 ### 3D CGi and Visual Designing 🎨
 ![](https://img.shields.io/badge/Photoshop-1d1f21?style=flat&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF)
