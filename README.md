@@ -41,7 +41,7 @@
 
 
 ## 🔭 Current Projects
-- ~
+- Memo Notes
 - ~
 
 ## 🌱 I'm currently learning
