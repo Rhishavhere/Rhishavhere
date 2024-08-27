@@ -42,7 +42,7 @@
 
 ## 🔭 Current Projects
 - Memo Notes
-- ~
+- Livure Health
 
 ## 🌱 I'm currently learning
 - ReactJS in Web Dev
