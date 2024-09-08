@@ -12,8 +12,8 @@
 ## 🛠️ Skills and Technologies
 
 ### Code 💻
-![](https://img.shields.io/badge/C-1d1f21?style=flat&logo=c&logoColor=white&labelColor=A8B9CC)
-![](https://img.shields.io/badge/C++-1d1f21?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C)
+
+![](https://img.shields.io/badge/C/C++-1d1f21?style=flat&logo=c%2B%2B&logoColor=white&labelColor=00599C)
 ![](https://img.shields.io/badge/Java-1d1f21?style=flat&logo=openjdk&logoColor=white&labelColor=007396)
 ![](https://img.shields.io/badge/Python-1d1f21?style=flat&logo=python&logoColor=white&labelColor=3776AB)
 ![](https://img.shields.io/badge/JavaScript-1d1f21?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
