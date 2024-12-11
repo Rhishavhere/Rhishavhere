@@ -22,6 +22,15 @@
 ![](https://img.shields.io/badge/HTML5-1d1f21?style=flat&logo=html5&logoColor=white&labelColor=E34F26)
 ![](https://img.shields.io/badge/CSS-1d1f21?style=flat&logo=css3&logoColor=white&labelColor=1572B6)
 ![](https://img.shields.io/badge/Tailwind-1d1f21?style=flat&logo=tailwindcss&logoColor=white&labelColor=blue)
+![](https://img.shields.io/badge/Jupyter-1d1f21?style=flat&logo=jupyter&logoColor=white&labelColor=F37626)
+![](https://img.shields.io/badge/Google%20Colab-1d1f21?style=flat&logo=googlecolab&logoColor=white&labelColor=F9AB00)
+![](https://img.shields.io/badge/Google%20Cloud%20Platform-1d1f21?style=flat&logo=googlecloud&logoColor=white&labelColor=4285F4)
+![](https://img.shields.io/badge/Node.js-1d1f21?style=flat&logo=node.js&logoColor=white&labelColor=339933)
+![](https://img.shields.io/badge/Mongoose-1d1f21?style=flat&logo=mongoose&logoColor=white&labelColor=880000)
+![](https://img.shields.io/badge/MongoDB-1d1f21?style=flat&logo=mongodb&logoColor=white&labelColor=47A248)
+![](https://img.shields.io/badge/Express-1d1f21?style=flat&logo=express&logoColor=white&labelColor=000000)
+![](https://img.shields.io/badge/Flask-1d1f21?style=flat&logo=flask&logoColor=white&labelColor=000000)
+
 
 ### 3D CGi and Visual Designing 🎨
 ![](https://img.shields.io/badge/Photoshop-1d1f21?style=flat&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF)
@@ -33,6 +42,8 @@
 
 
 ### Tools
+![](https://img.shields.io/badge/VS%20Code-1d1f21?style=flat&logo=visualstudiocode&logoColor=white&labelColor=0078D4)
+![](https://img.shields.io/badge/JetBrains-1d1f21?style=flat&logo=jetbrains&logoColor=white&labelColor=000000)
 ![](https://img.shields.io/badge/Figma-1d1f21?style=flat&logo=figma&logoColor=white&labelColor=F24E1E)
 ![](https://img.shields.io/badge/Notion-1d1f21?style=flat&logo=notion&logoColor=white&labelColor=000000)
 ![](https://img.shields.io/badge/ChatGPT-1d1f21?style=flat&logo=openai&logoColor=white&labelColor=412991)
