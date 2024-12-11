@@ -41,13 +41,13 @@
 
 
 ## 🔭 Current Projects
-- Memo Notes
-- Livure Health
+- GreenMind-AI
+- ..
 
 ## 🌱 I'm currently learning
-- ReactJS in Web Dev
+- React and Node
 - DSA (in Java and C++)
-- Web/mobile apps in Python
+- AI/ML with Python
 
 ## 📈 GitHub Stats
 
