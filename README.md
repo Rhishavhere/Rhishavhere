@@ -30,6 +30,8 @@
 ![](https://img.shields.io/badge/MongoDB-1d1f21?style=flat&logo=mongodb&logoColor=white&labelColor=47A248)
 ![](https://img.shields.io/badge/Express-1d1f21?style=flat&logo=express&logoColor=white&labelColor=000000)
 ![](https://img.shields.io/badge/Flask-1d1f21?style=flat&logo=flask&logoColor=white&labelColor=000000)
+![](https://img.shields.io/badge/Stable%20Diffusion-1d1f21?style=flat&logo=stable-diffusion&logoColor=white&labelColor=4b6cc1)
+
 
 
 ### 3D CGi and Visual Designing 🎨
