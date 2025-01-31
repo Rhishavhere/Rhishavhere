@@ -4,7 +4,7 @@
 ## 🚀 About Me
 ● I find myself coding often 
 
-● Currently focused in WebD
+● Learning AI ( Machine and Deep Learning )
 
 ● Love creating 3D art and visuals
 
@@ -54,8 +54,8 @@
 
 
 ## 🔭 Current Projects
-- GreenMind-AI
-- ..
+- ai.Aura
+- system.GreenMind
 
 ## 🌱 I'm currently learning
 - React and Node
