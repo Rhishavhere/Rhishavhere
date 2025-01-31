@@ -54,8 +54,8 @@
 
 
 ## 🔭 Current Projects
-- ai.Aura
-- system.GreenMind
+- [ ai ] Aura
+- [ system ] GreenMind
 
 ## 🌱 I'm currently learning
 - React and Node
