@@ -65,11 +65,9 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/Rhishavhere">
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhishavhere&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhishavhere&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact" />
 </a>
-<a href="https://github.com/Rhishavhere">
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=Rhishavhere&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues,contribs&show=stars,commits,prs" />
-</a>
+
 
 -------
 
