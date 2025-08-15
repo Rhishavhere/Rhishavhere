@@ -53,10 +53,6 @@
 ![](https://img.shields.io/badge/Claude-1d1f21?style=flat&logo=anthropic&logoColor=white&labelColor=FF6F61)
 
 
-## 🔭 Current Projects
-- [ ai ] Aura
-- [ system ] GreenMind
-
 ## 🌱 I'm currently learning
 - React and Node
 - DSA (in Java and C++)
