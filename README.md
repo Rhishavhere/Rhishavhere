@@ -19,6 +19,11 @@
 ![](https://img.shields.io/badge/JavaScript-1d1f21?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)
 ![](https://img.shields.io/badge/React-1d1f21?style=flat&logo=react&logoColor=white&labelColor=purple)
 ![](https://img.shields.io/badge/Next-1d1f21?style=flat&logo=vercel&logoColor=white&labelColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-1d1f21?style=flat&logo=typescript&logoColor=white&labelColor=3178C6)
+![Supabase](https://img.shields.io/badge/Supabase-1d1f21?style=flat&logo=supabase&logoColor=white&labelColor=3ECF8E)
+![Electron](https://img.shields.io/badge/Electron-1d1f21?style=flat&logo=electron&logoColor=white&labelColor=47848F)
+![Expo](https://img.shields.io/badge/Expo-1d1f21?style=flat&logo=expo&logoColor=white&labelColor=000020)
+![React Native](https://img.shields.io/badge/React%20Native-1d1f21?style=flat&logo=react&logoColor=white&labelColor=61DAFB)
 ![](https://img.shields.io/badge/HTML5-1d1f21?style=flat&logo=html5&logoColor=white&labelColor=E34F26)
 ![](https://img.shields.io/badge/CSS-1d1f21?style=flat&logo=css3&logoColor=white&labelColor=1572B6)
 ![](https://img.shields.io/badge/Tailwind-1d1f21?style=flat&logo=tailwindcss&logoColor=white&labelColor=blue)
@@ -48,15 +53,8 @@
 ![](https://img.shields.io/badge/JetBrains-1d1f21?style=flat&logo=jetbrains&logoColor=white&labelColor=000000)
 ![](https://img.shields.io/badge/Figma-1d1f21?style=flat&logo=figma&logoColor=white&labelColor=F24E1E)
 ![](https://img.shields.io/badge/Notion-1d1f21?style=flat&logo=notion&logoColor=white&labelColor=000000)
-![](https://img.shields.io/badge/ChatGPT-1d1f21?style=flat&logo=openai&logoColor=white&labelColor=412991)
-![](https://img.shields.io/badge/Gemini-1d1f21?style=flat&logo=google&logoColor=white&labelColor=0A66C2)
 ![](https://img.shields.io/badge/Claude-1d1f21?style=flat&logo=anthropic&logoColor=white&labelColor=FF6F61)
 
-
-## 🌱 I'm currently learning
-- React and Node
-- DSA (in Java and C++)
-- AI/ML with Python
 
 ## 📈 GitHub Stats
 
