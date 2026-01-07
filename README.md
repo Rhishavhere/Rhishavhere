@@ -1,67 +1,66 @@
-<!-- Banner / Hero Section -->
-<h1 align="center">✨ Hello <span style="color:#00E5FF;">It's Rhishav</span> 👋</h1>
-<p align="center">
-  <b>I build stuff tech people find interesting </b><br>
-</p>
+### Hi, Rhishav here
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
-</p>
-<p align="center">
-<a href="https://www.rhishav.com"><img src="https://img.shields.io/badge/Portfolio-www.rhishav.com-cyan?style=for-the-badge"/></a> 
-<a href="https://www.meikai.rhishav.com"><img src="https://img.shields.io/badge/Founding-Meikai Browser-red?style=for-the-badge"/></a> 
-</p>
+<div align="left">
+  
+**Full Stack Developer • AI Engineer • Digital Artist**
+
+
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rhishav.com-6B7280?style=for-the-badge&logoColor=white)](https://www.rhishav.com)
+[![Meikai](https://img.shields.io/badge/Founding-Meikai_Browser-7C3AED?style=for-the-badge)](https://www.meikai.rhishav.com)
+
+
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%"/>
+
+*Building stuff tech people find interesting*
+
+</div>
 
 
 ## 🚀 About Me
-- 🧑‍💻 21 and CS guy
+- 🧑‍💻 21 and CS undergrad
 - 🔭 Building my lore on Full Stack and AI engineering
 - 🎨 I sculpt 3D worlds & build CG Visuals when not coding  
 - ⚡ I .. umm.. I love building projects
 
----
+## Tech I build with
 
-[![Rhishav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rhishavhere&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🧩 Ah My Painter's Brushes
-
-### 💻 Programming + Frameworks
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,react,nextjs,tauri,nodejs,mongodb,express,flask,supabase,electron,html,css,tailwind,gcp&theme=dark" />
+<details open>
+<summary><b>💻 Languages & Frameworks</b></summary>
+<br>
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,py,js,ts,rust&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tauri,electron,nodejs,express&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,supabase,flask,gcp,html,css,tailwind&theme=dark" />
 </p>
+</details>
 
-### 🎨 CGI + Visual Design
-<p align="left">
+<details open>
+<summary><b>🎨 Creative Suite</b></summary>
+<br>
+<p>
 <img src="https://skillicons.dev/icons?i=blender,ps,ae,pr,unreal&theme=dark" />
 </p>
+</details>
 
 
----
+## 📈 Stats look cool
 
-## 📈 They say GitHub Stats look cool
+<div align="center">
 
-<p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Rhishavhere&show_icons=true&theme=radical" height="170px"/> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhishavhere&theme=radical" height="170px"/>
+[![Rhishav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rhishavhere&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rhishavhere&theme=highcontrast" alt="GitHub Streak" /></a> -->
 
-</p>
+</div>
 
 
----
 
 ## 📫 Reach Out!
+[Twitter](https://x.com/Rhishavhere) • [LinkedIn](https://www.linkedin.com/in/rhishav-dhali-a5047639a/) • [Instagram](https://www.instagram.com/rhishavwentafk) • [Email](mailto:rhishh.me@gmail.com)
 
-<p align="center">
-<a href="https://x.com/Rhishavhere"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
-<a href="https://github.com/Rhishavhere"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
-<a href="https://www.instagram.com/rhishavwentafk"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/></a>
-<a href="mailto:rhishh.me@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
-</p>
-
----
-
-<p align="center">
-✨ Thanks for stopping by — Let’s build the future together! 🚀
-</p>
 
