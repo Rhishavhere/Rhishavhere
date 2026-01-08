@@ -10,7 +10,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rhishav.com-6B7280?style=for-the-badge&logoColor=white)](https://www.rhishav.com)
-[![Meikai](https://img.shields.io/badge/Founding-Meikai_Browser-7C3AED?style=for-the-badge)](https://www.meikai.rhishav.com)
+[![Meikai](https://img.shields.io/badge/Building-Meikai_Browser-7C3AED?style=for-the-badge)](https://www.meikai.rhishav.com)
 
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%"/>
